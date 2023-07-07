@@ -1,0 +1,2 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+img30.jpg,63659,"{}",1,0,"{""name"":""rect"",""x"":406,""y"":102,""width"":132,""height"":363}","{""bndbox"":""StatueOfLiberty""}"

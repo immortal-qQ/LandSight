@@ -1,0 +1,2 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+img23.jpg,80168,"{}",1,0,"{""name"":""rect"",""x"":670,""y"":55,""width"":298,""height"":621}","{""bndbox"":""StatueOfLiberty""}"

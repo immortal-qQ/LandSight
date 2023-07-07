@@ -1,0 +1,2 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+1.jpg,6869383,"{}",1,0,"{""name"":""rect"",""x"":928,""y"":693,""width"":4133,""height"":6663}","{""bndbox"":""EiffelTower""}"

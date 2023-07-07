@@ -1,0 +1,2 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+1.jpg,147508,"{}",1,0,"{""name"":""rect"",""x"":201,""y"":141,""width"":303,""height"":842}","{""bndbox"":""PisaTower""}"

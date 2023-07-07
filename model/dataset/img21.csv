@@ -1,0 +1,2 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+1.jpg,125363,"{}",1,0,"{""name"":""rect"",""x"":444,""y"":119,""width"":179,""height"":385}","{""bndbox"":""StatueOfLiberty""}"

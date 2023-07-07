@@ -1,0 +1,3 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+2.jpg,1580596,"{}",2,0,"{""name"":""rect"",""x"":1196,""y"":705,""width"":629,""height"":1745}","{""bndbox"":""EiffelTower""}"
+2.jpg,1580596,"{}",2,1,"{""name"":""rect"",""x"":1196,""y"":2708,""width"":625,""height"":1071}","{""bndbox"":""EiffelTower""}"
